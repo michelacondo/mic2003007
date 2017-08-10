@@ -1,0 +1,33 @@
+div {
+  width: 200px;
+  border: 1px solid black;
+  display: block;
+  margin: auto;
+  padding: 50px;
+}
+
+#first {
+  background-color: #ee3456;
+  height: 109px;
+}
+
+#second {
+  height: 160px;
+  background-color: #eedfa2;
+}
+
+#third {
+  background-color: #ed459a;
+}
+
+#fourth {
+  background-color: #fceed9;
+}
+
+#five {
+  background-color: #fcd9f4;
+}
+
+#origionals {
+  background-color: #c62fa6;
+}

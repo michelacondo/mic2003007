@@ -1,0 +1,14 @@
+.nyoom {
+  background-repeat:  no-repeat;
+  background-size: cover;
+}
+
+a {
+  font-size: 70px;
+  color: #ab9df9;
+  text-decoration:none;
+}
+
+h1 {
+  float: none;
+}
